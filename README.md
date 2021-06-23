@@ -1,4 +1,4 @@
-# responsiveweb
+# A Flutter Weather app
 
 A new Flutter project.
 
